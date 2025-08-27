@@ -1,0 +1,36 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 50px 50px;
+  grid-gap: 50px;
+}
+.item1 {
+  height: 90px;
+  width: auto;
+  background-color: chocolate;
+}
+.item2 {
+  height: 90px;
+  width: auto;
+  background-color: orange;
+}
+.item3 {
+  height: 90px;
+  width: auto;
+  background-color: chocolate;
+}
+.item4 {
+  height: 90px;
+  width: auto;
+  background-color: orange;
+}
+.item5 {
+  height: 90px;
+  width: auto;
+  background-color: chocolate;
+}
+.item6 {
+  height: 90px;
+  width: auto;
+  background-color: orange;
+}
